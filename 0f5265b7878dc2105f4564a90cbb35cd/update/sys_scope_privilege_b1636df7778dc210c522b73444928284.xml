@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope/>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-26 20:22:01</sys_created_on>
+        <sys_id>b1636df7778dc210c522b73444928284</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ManyToManyChecker</sys_name>
+        <sys_package display_value="FinalFipsOn" source="x_snc_finalfipson">0f5265b7878dc2105f4564a90cbb35cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FinalFipsOn">0f5265b7878dc2105f4564a90cbb35cd</sys_scope>
+        <sys_update_name>sys_scope_privilege_b1636df7778dc210c522b73444928284</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-26 20:22:01</sys_updated_on>
+        <target_name>ManyToManyChecker</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>

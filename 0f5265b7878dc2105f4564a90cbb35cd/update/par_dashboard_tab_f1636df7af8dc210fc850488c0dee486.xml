@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab">
+    <par_dashboard_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color/>
+        <dashboard display_value="FinalFipsOn">79636df7888dc2102a7341ce96f08086</dashboard>
+        <name>Tab</name>
+        <order>0</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-26 20:22:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>f1636df7af8dc210fc850488c0dee486</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="FinalFipsOn" source="x_snc_finalfipson">0f5265b7878dc2105f4564a90cbb35cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FinalFipsOn">0f5265b7878dc2105f4564a90cbb35cd</sys_scope>
+        <sys_update_name>par_dashboard_tab_f1636df7af8dc210fc850488c0dee486</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-26 20:22:01</sys_updated_on>
+    </par_dashboard_tab>
+</record_update>

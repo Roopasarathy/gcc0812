@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="fipson">4763edf7878dc2105f4564a90cbb353d</ais_search_source>
+        <label>fipson</label>
+        <name>fipson</name>
+        <order>100</order>
+        <search_context_config display_value="FinalFipsOn AI Search Configuration">f9636df7418dc2101cc1d5a3021d9084</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-26 20:22:05</sys_created_on>
+        <sys_id>8f63edf7878dc2105f4564a90cbb3565</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fipson</sys_name>
+        <sys_package display_value="FinalFipsOn" source="x_snc_finalfipson">0f5265b7878dc2105f4564a90cbb35cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FinalFipsOn">0f5265b7878dc2105f4564a90cbb35cd</sys_scope>
+        <sys_update_name>sys_search_filter_8f63edf7878dc2105f4564a90cbb3565</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-26 20:22:05</sys_updated_on>
+    </sys_search_filter>
+</record_update>

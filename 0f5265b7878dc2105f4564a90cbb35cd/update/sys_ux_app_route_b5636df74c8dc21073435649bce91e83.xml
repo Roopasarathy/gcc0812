@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="FinalFipsOn App Config">f9636df7628dc210129894137623a48d</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>Record</name>
+        <optional_parameters>query,extraParams,views,selectedTabIndex</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>record</route_type>
+        <screen_type display_value="Record">f5636df7a78dc210fa4a473214e3f782</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-26 20:22:00</sys_created_on>
+        <sys_id>b5636df74c8dc21073435649bce91e83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record</sys_name>
+        <sys_package display_value="FinalFipsOn" source="x_snc_finalfipson">0f5265b7878dc2105f4564a90cbb35cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FinalFipsOn">0f5265b7878dc2105f4564a90cbb35cd</sys_scope>
+        <sys_update_name>sys_ux_app_route_b5636df74c8dc21073435649bce91e83</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-26 20:22:00</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=b5636df74c8dc21073435649bce91e83"/>
+</record_update>
